@@ -1,0 +1,14 @@
+E:\Labfiles\Lab 4\Ex 1 - Failsafe\Starter\SwitchDevice\bin\Debug\SwitchDevice.dll
+E:\Labfiles\Lab 4\Ex 1 - Failsafe\Starter\SwitchDevice\bin\Debug\SwitchDevice.pdb
+E:\Labfiles\Lab 4\Ex 1 - Failsafe\Starter\SwitchDevice\obj\Debug\ResolveAssemblyReference.cache
+E:\Labfiles\Lab 4\Ex 1 - Failsafe\Starter\SwitchDevice\obj\Debug\SwitchDevice.dll
+E:\Labfiles\Lab 4\Ex 1 - Failsafe\Starter\SwitchDevice\obj\Debug\SwitchDevice.pdb
+E:\Labfiles\Lab 4\Ex 1\Starter\SwitchDevice\bin\Debug\SwitchDevice.dll
+E:\Labfiles\Lab 4\Ex 1\Starter\SwitchDevice\bin\Debug\SwitchDevice.pdb
+E:\Labfiles\Lab 4\Ex 1\Starter\SwitchDevice\obj\Debug\ResolveAssemblyReference.cache
+E:\Labfiles\Lab 4\Ex 1\Starter\SwitchDevice\obj\Debug\SwitchDevice.dll
+E:\Labfiles\Lab 4\Ex 1\Starter\SwitchDevice\obj\Debug\SwitchDevice.pdb
+E:\Labfiles\Lab 4\Ex1\Starter\SwitchDevice\bin\Debug\SwitchDevice.dll
+E:\Labfiles\Lab 4\Ex1\Starter\SwitchDevice\bin\Debug\SwitchDevice.pdb
+E:\Labfiles\Lab 4\Ex1\Starter\SwitchDevice\obj\Debug\SwitchDevice.dll
+E:\Labfiles\Lab 4\Ex1\Starter\SwitchDevice\obj\Debug\SwitchDevice.pdb

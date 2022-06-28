@@ -1,0 +1,15 @@
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Module4\TestClient\bin\Debug\TestClient.exe
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Module4\TestClient\bin\Debug\TestClient.pdb
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Module4\TestClient\bin\Debug\SwitchDevice.dll
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Module4\TestClient\bin\Debug\SwitchDevice.pdb
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Module4\TestClient\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Module4\TestClient\obj\x86\Debug\MainWindow.baml
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Module4\TestClient\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Module4\TestClient\obj\x86\Debug\App.g.cs
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Module4\TestClient\obj\x86\Debug\TestClient_MarkupCompile.cache
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Module4\TestClient\obj\x86\Debug\TestClient.g.resources
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Module4\TestClient\obj\x86\Debug\TestClient.Properties.Resources.resources
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Module4\TestClient\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Module4\TestClient\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Module4\TestClient\obj\x86\Debug\TestClient.exe
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Module4\TestClient\obj\x86\Debug\TestClient.pdb
