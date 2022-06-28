@@ -1,0 +1,24 @@
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Module2\Solution\MatrixMultiplication\bin\Debug\MatrixMultiplication.exe
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Module2\Solution\MatrixMultiplication\bin\Debug\MatrixMultiplication.pdb
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Module2\Solution\MatrixMultiplication\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Module2\Solution\MatrixMultiplication\obj\x86\Debug\MainWindow.baml
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Module2\Solution\MatrixMultiplication\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Module2\Solution\MatrixMultiplication\obj\x86\Debug\App.g.cs
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Module2\Solution\MatrixMultiplication\obj\x86\Debug\MatrixMultiplication_MarkupCompile.cache
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Module2\Solution\MatrixMultiplication\obj\x86\Debug\MatrixMultiplication.g.resources
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Module2\Solution\MatrixMultiplication\obj\x86\Debug\MatrixMultiplication.Properties.Resources.resources
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Module2\Solution\MatrixMultiplication\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Module2\Solution\MatrixMultiplication\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Module2\Solution\MatrixMultiplication\obj\x86\Debug\MatrixMultiplication.exe
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Module2\Solution\MatrixMultiplication\obj\x86\Debug\MatrixMultiplication.pdb
+E:\Labfiles\Lab 2\Ex3\Starter\MatrixMultiplication\obj\x86\Debug\MainWindow.baml
+E:\Labfiles\Lab 2\Ex3\Starter\MatrixMultiplication\obj\x86\Debug\MainWindow.g.cs
+E:\Labfiles\Lab 2\Ex3\Starter\MatrixMultiplication\obj\x86\Debug\App.g.cs
+E:\Labfiles\Lab 2\Ex3\Starter\MatrixMultiplication\obj\x86\Debug\MatrixMultiplication_MarkupCompile.cache
+E:\Labfiles\Lab 2\Ex3\Starter\MatrixMultiplication\obj\x86\Debug\MatrixMultiplication.g.resources
+E:\Labfiles\Lab 2\Ex3\Starter\MatrixMultiplication\obj\x86\Debug\MatrixMultiplication.Properties.Resources.resources
+E:\Labfiles\Lab 2\Ex3\Starter\MatrixMultiplication\obj\x86\Debug\MatrixMultiplication.csproj.GenerateResource.Cache
+E:\Labfiles\Lab 2\Ex3\Starter\MatrixMultiplication\bin\Debug\MatrixMultiplication.exe
+E:\Labfiles\Lab 2\Ex3\Starter\MatrixMultiplication\bin\Debug\MatrixMultiplication.pdb
+E:\Labfiles\Lab 2\Ex3\Starter\MatrixMultiplication\obj\x86\Debug\MatrixMultiplication.exe
+E:\Labfiles\Lab 2\Ex3\Starter\MatrixMultiplication\obj\x86\Debug\MatrixMultiplication.pdb
