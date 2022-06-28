@@ -1,0 +1,27 @@
+E:\Labfiles\Lab 4\Ex 2 - Detecting Exceptions\Starter\Matrix Unit Test Project\bin\Debug\Module 4 Unit Test Project.dll
+E:\Labfiles\Lab 4\Ex 2 - Detecting Exceptions\Starter\Matrix Unit Test Project\bin\Debug\Module 4 Unit Test Project.pdb
+E:\Labfiles\Lab 4\Ex 2 - Detecting Exceptions\Starter\Matrix Unit Test Project\bin\Debug\MatrixMultiplication.exe
+E:\Labfiles\Lab 4\Ex 2 - Detecting Exceptions\Starter\Matrix Unit Test Project\bin\Debug\MatrixMultiplication.pdb
+E:\Labfiles\Lab 4\Ex 2 - Detecting Exceptions\Starter\Matrix Unit Test Project\bin\Debug\MatrixMultiplication_Accessor.dll
+E:\Labfiles\Lab 4\Ex 2 - Detecting Exceptions\Starter\Matrix Unit Test Project\bin\Debug\MatrixMultiplication_Accessor.pdb
+E:\Labfiles\Lab 4\Ex 2 - Detecting Exceptions\Starter\Matrix Unit Test Project\obj\Debug\ResolveAssemblyReference.cache
+E:\Labfiles\Lab 4\Ex 2 - Detecting Exceptions\Starter\Matrix Unit Test Project\obj\Debug\Module 4 Unit Test Project.dll
+E:\Labfiles\Lab 4\Ex 2 - Detecting Exceptions\Starter\Matrix Unit Test Project\obj\Debug\Module 4 Unit Test Project.pdb
+E:\Labfiles\Lab 4\Ex 2\Starter\Matrix Unit Test Project\bin\Debug\Module 4 Unit Test Project.dll
+E:\Labfiles\Lab 4\Ex 2\Starter\Matrix Unit Test Project\bin\Debug\Module 4 Unit Test Project.pdb
+E:\Labfiles\Lab 4\Ex 2\Starter\Matrix Unit Test Project\bin\Debug\MatrixMultiplication.exe
+E:\Labfiles\Lab 4\Ex 2\Starter\Matrix Unit Test Project\bin\Debug\MatrixMultiplication.pdb
+E:\Labfiles\Lab 4\Ex 2\Starter\Matrix Unit Test Project\bin\Debug\MatrixMultiplication_Accessor.dll
+E:\Labfiles\Lab 4\Ex 2\Starter\Matrix Unit Test Project\bin\Debug\MatrixMultiplication_Accessor.pdb
+E:\Labfiles\Lab 4\Ex 2\Starter\Matrix Unit Test Project\obj\Debug\ResolveAssemblyReference.cache
+E:\Labfiles\Lab 4\Ex 2\Starter\Matrix Unit Test Project\obj\Debug\Module 4 Unit Test Project.dll
+E:\Labfiles\Lab 4\Ex 2\Starter\Matrix Unit Test Project\obj\Debug\Module 4 Unit Test Project.pdb
+E:\Labfiles\Lab 4\Ex2\Starter\Matrix Unit Test Project\bin\Debug\Module 4 Unit Test Project.dll
+E:\Labfiles\Lab 4\Ex2\Starter\Matrix Unit Test Project\bin\Debug\Module 4 Unit Test Project.pdb
+E:\Labfiles\Lab 4\Ex2\Starter\Matrix Unit Test Project\bin\Debug\MatrixMultiplication.exe
+E:\Labfiles\Lab 4\Ex2\Starter\Matrix Unit Test Project\bin\Debug\MatrixMultiplication.pdb
+E:\Labfiles\Lab 4\Ex2\Starter\Matrix Unit Test Project\bin\Debug\MatrixMultiplication_Accessor.exe
+E:\Labfiles\Lab 4\Ex2\Starter\Matrix Unit Test Project\bin\Debug\MatrixMultiplication_Accessor.pdb
+E:\Labfiles\Lab 4\Ex2\Starter\Matrix Unit Test Project\obj\Debug\Matrix Unit Test Project.csprojResolveAssemblyReference.cache
+E:\Labfiles\Lab 4\Ex2\Starter\Matrix Unit Test Project\obj\Debug\Module 4 Unit Test Project.dll
+E:\Labfiles\Lab 4\Ex2\Starter\Matrix Unit Test Project\obj\Debug\Module 4 Unit Test Project.pdb
