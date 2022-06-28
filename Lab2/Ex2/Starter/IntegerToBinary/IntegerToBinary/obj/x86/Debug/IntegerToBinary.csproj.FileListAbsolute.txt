@@ -1,0 +1,11 @@
+E:\Labfiles\Lab 2\Ex2\Starter\IntegerToBinary\IntegerToBinary\bin\Debug\IntegerToBinary.exe
+E:\Labfiles\Lab 2\Ex2\Starter\IntegerToBinary\IntegerToBinary\bin\Debug\IntegerToBinary.pdb
+E:\Labfiles\Lab 2\Ex2\Starter\IntegerToBinary\IntegerToBinary\obj\x86\Debug\MainWindow.baml
+E:\Labfiles\Lab 2\Ex2\Starter\IntegerToBinary\IntegerToBinary\obj\x86\Debug\MainWindow.g.cs
+E:\Labfiles\Lab 2\Ex2\Starter\IntegerToBinary\IntegerToBinary\obj\x86\Debug\App.g.cs
+E:\Labfiles\Lab 2\Ex2\Starter\IntegerToBinary\IntegerToBinary\obj\x86\Debug\IntegerToBinary_MarkupCompile.cache
+E:\Labfiles\Lab 2\Ex2\Starter\IntegerToBinary\IntegerToBinary\obj\x86\Debug\IntegerToBinary.g.resources
+E:\Labfiles\Lab 2\Ex2\Starter\IntegerToBinary\IntegerToBinary\obj\x86\Debug\IntegerToBinary.Properties.Resources.resources
+E:\Labfiles\Lab 2\Ex2\Starter\IntegerToBinary\IntegerToBinary\obj\x86\Debug\IntegerToBinary.csproj.GenerateResource.Cache
+E:\Labfiles\Lab 2\Ex2\Starter\IntegerToBinary\IntegerToBinary\obj\x86\Debug\IntegerToBinary.exe
+E:\Labfiles\Lab 2\Ex2\Starter\IntegerToBinary\IntegerToBinary\obj\x86\Debug\IntegerToBinary.pdb
