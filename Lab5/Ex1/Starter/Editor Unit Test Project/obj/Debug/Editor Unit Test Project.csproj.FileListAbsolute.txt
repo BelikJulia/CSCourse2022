@@ -1,0 +1,18 @@
+E:\Labfiles\Lab 5\Ex 1\Starter\Editor Unit Test Project\bin\Debug\Module 5 Unit Test Project.dll
+E:\Labfiles\Lab 5\Ex 1\Starter\Editor Unit Test Project\bin\Debug\Module 5 Unit Test Project.pdb
+E:\Labfiles\Lab 5\Ex 1\Starter\Editor Unit Test Project\bin\Debug\FileEditor.exe
+E:\Labfiles\Lab 5\Ex 1\Starter\Editor Unit Test Project\bin\Debug\FileEditor.pdb
+E:\Labfiles\Lab 5\Ex 1\Starter\Editor Unit Test Project\bin\Debug\FileEditor_Accessor.dll
+E:\Labfiles\Lab 5\Ex 1\Starter\Editor Unit Test Project\bin\Debug\FileEditor_Accessor.pdb
+E:\Labfiles\Lab 5\Ex 1\Starter\Editor Unit Test Project\obj\Debug\ResolveAssemblyReference.cache
+E:\Labfiles\Lab 5\Ex 1\Starter\Editor Unit Test Project\obj\Debug\Module 5 Unit Test Project.dll
+E:\Labfiles\Lab 5\Ex 1\Starter\Editor Unit Test Project\obj\Debug\Module 5 Unit Test Project.pdb
+E:\Labfiles\Lab 5\Ex1\Starter\Editor Unit Test Project\bin\Debug\Module 5 Unit Test Project.dll
+E:\Labfiles\Lab 5\Ex1\Starter\Editor Unit Test Project\bin\Debug\Module 5 Unit Test Project.pdb
+E:\Labfiles\Lab 5\Ex1\Starter\Editor Unit Test Project\bin\Debug\FileEditor.exe
+E:\Labfiles\Lab 5\Ex1\Starter\Editor Unit Test Project\bin\Debug\FileEditor.pdb
+E:\Labfiles\Lab 5\Ex1\Starter\Editor Unit Test Project\bin\Debug\FileEditor_Accessor.exe
+E:\Labfiles\Lab 5\Ex1\Starter\Editor Unit Test Project\bin\Debug\FileEditor_Accessor.pdb
+E:\Labfiles\Lab 5\Ex1\Starter\Editor Unit Test Project\obj\Debug\Editor Unit Test Project.csprojResolveAssemblyReference.cache
+E:\Labfiles\Lab 5\Ex1\Starter\Editor Unit Test Project\obj\Debug\Module 5 Unit Test Project.dll
+E:\Labfiles\Lab 5\Ex1\Starter\Editor Unit Test Project\obj\Debug\Module 5 Unit Test Project.pdb
