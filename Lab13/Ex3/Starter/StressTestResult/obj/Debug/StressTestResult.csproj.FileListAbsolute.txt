@@ -1,0 +1,24 @@
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Lab 13\StressTestResult\bin\Debug\StressTestResult.dll
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Lab 13\StressTestResult\bin\Debug\StressTestResult.pdb
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Lab 13\StressTestResult\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Lab 13\StressTestResult\obj\Debug\StressTestResult.dll
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Lab 13\StressTestResult\obj\Debug\StressTestResult.pdb
+E:\Labfiles\Lab 13\Ex 1\Starter\StressTestResult\bin\Debug\StressTestResult.dll
+E:\Labfiles\Lab 13\Ex 1\Starter\StressTestResult\bin\Debug\StressTestResult.pdb
+E:\Labfiles\Lab 13\Ex 1\Starter\StressTestResult\obj\Debug\ResolveAssemblyReference.cache
+E:\Labfiles\Lab 13\Ex 1\Starter\StressTestResult\obj\Debug\StressTestResult.dll
+E:\Labfiles\Lab 13\Ex 1\Starter\StressTestResult\obj\Debug\StressTestResult.pdb
+E:\Labfiles\Lab 13\Ex 1\Solution\StressTestResult\bin\Debug\StressTestResult.dll
+E:\Labfiles\Lab 13\Ex 1\Solution\StressTestResult\bin\Debug\StressTestResult.pdb
+E:\Labfiles\Lab 13\Ex 1\Solution\StressTestResult\obj\Debug\ResolveAssemblyReference.cache
+E:\Labfiles\Lab 13\Ex 1\Solution\StressTestResult\obj\Debug\StressTestResult.dll
+E:\Labfiles\Lab 13\Ex 1\Solution\StressTestResult\obj\Debug\StressTestResult.pdb
+E:\Labfiles\Lab 13\Ex 3\Starter\StressTestResult\bin\Debug\StressTestResult.dll
+E:\Labfiles\Lab 13\Ex 3\Starter\StressTestResult\bin\Debug\StressTestResult.pdb
+E:\Labfiles\Lab 13\Ex 3\Starter\StressTestResult\obj\Debug\ResolveAssemblyReference.cache
+E:\Labfiles\Lab 13\Ex 3\Starter\StressTestResult\obj\Debug\StressTestResult.dll
+E:\Labfiles\Lab 13\Ex 3\Starter\StressTestResult\obj\Debug\StressTestResult.pdb
+E:\Labfiles\Lab 13\Ex3\Starter\StressTestResult\bin\Debug\StressTestResult.dll
+E:\Labfiles\Lab 13\Ex3\Starter\StressTestResult\bin\Debug\StressTestResult.pdb
+E:\Labfiles\Lab 13\Ex3\Starter\StressTestResult\obj\Debug\StressTestResult.dll
+E:\Labfiles\Lab 13\Ex3\Starter\StressTestResult\obj\Debug\StressTestResult.pdb
