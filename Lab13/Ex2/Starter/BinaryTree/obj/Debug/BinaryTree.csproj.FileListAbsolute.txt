@@ -1,0 +1,34 @@
+E:\Microsoft Press\Visual CSharp Step By Step\Chapter 19\IteratorBinaryTree - Complete\BinaryTree\bin\Debug\BinaryTree.dll
+E:\Microsoft Press\Visual CSharp Step By Step\Chapter 19\IteratorBinaryTree - Complete\BinaryTree\bin\Debug\BinaryTree.pdb
+E:\Microsoft Press\Visual CSharp Step By Step\Chapter 19\IteratorBinaryTree - Complete\BinaryTree\obj\Debug\ResolveAssemblyReference.cache
+E:\Microsoft Press\Visual CSharp Step By Step\Chapter 19\IteratorBinaryTree - Complete\BinaryTree\obj\Debug\BinaryTree.dll
+E:\Microsoft Press\Visual CSharp Step By Step\Chapter 19\IteratorBinaryTree - Complete\BinaryTree\obj\Debug\BinaryTree.pdb
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Enumerations\IteratorBinaryTree - Complete\BinaryTree\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Enumerations\IteratorBinaryTree - Complete\BinaryTree\obj\Debug\BinaryTree.pdb
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Enumerations\IteratorBinaryTree - Complete\BinaryTree\bin\Debug\BinaryTree.dll
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Enumerations\IteratorBinaryTree - Complete\BinaryTree\bin\Debug\BinaryTree.pdb
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Enumerations\IteratorBinaryTree - Complete\BinaryTree\obj\Debug\BinaryTree.dll
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Lab 13\BinaryTree\bin\Debug\BinaryTree.dll
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Lab 13\BinaryTree\bin\Debug\BinaryTree.pdb
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Lab 13\BinaryTree\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Lab 13\BinaryTree\obj\Debug\BinaryTree.dll
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Lab 13\BinaryTree\obj\Debug\BinaryTree.pdb
+E:\Labfiles\Lab 13\Ex 1\Starter\BinaryTree\bin\Debug\BinaryTree.dll
+E:\Labfiles\Lab 13\Ex 1\Starter\BinaryTree\bin\Debug\BinaryTree.pdb
+E:\Labfiles\Lab 13\Ex 1\Starter\BinaryTree\obj\Debug\ResolveAssemblyReference.cache
+E:\Labfiles\Lab 13\Ex 1\Starter\BinaryTree\obj\Debug\BinaryTree.dll
+E:\Labfiles\Lab 13\Ex 1\Starter\BinaryTree\obj\Debug\BinaryTree.pdb
+E:\Labfiles\Lab 13\Ex 1\Solution\BinaryTree\bin\Debug\BinaryTree.dll
+E:\Labfiles\Lab 13\Ex 1\Solution\BinaryTree\bin\Debug\BinaryTree.pdb
+E:\Labfiles\Lab 13\Ex 1\Solution\BinaryTree\obj\Debug\ResolveAssemblyReference.cache
+E:\Labfiles\Lab 13\Ex 1\Solution\BinaryTree\obj\Debug\BinaryTree.dll
+E:\Labfiles\Lab 13\Ex 1\Solution\BinaryTree\obj\Debug\BinaryTree.pdb
+E:\Labfiles\Lab 13\Ex 2\Starter\BinaryTree\bin\Debug\BinaryTree.dll
+E:\Labfiles\Lab 13\Ex 2\Starter\BinaryTree\bin\Debug\BinaryTree.pdb
+E:\Labfiles\Lab 13\Ex 2\Starter\BinaryTree\obj\Debug\ResolveAssemblyReference.cache
+E:\Labfiles\Lab 13\Ex 2\Starter\BinaryTree\obj\Debug\BinaryTree.dll
+E:\Labfiles\Lab 13\Ex 2\Starter\BinaryTree\obj\Debug\BinaryTree.pdb
+E:\Labfiles\Lab 13\Ex2\Starter\BinaryTree\bin\Debug\BinaryTree.dll
+E:\Labfiles\Lab 13\Ex2\Starter\BinaryTree\bin\Debug\BinaryTree.pdb
+E:\Labfiles\Lab 13\Ex2\Starter\BinaryTree\obj\Debug\BinaryTree.dll
+E:\Labfiles\Lab 13\Ex2\Starter\BinaryTree\obj\Debug\BinaryTree.pdb

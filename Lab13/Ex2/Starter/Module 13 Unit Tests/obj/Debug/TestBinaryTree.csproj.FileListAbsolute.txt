@@ -1,0 +1,45 @@
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Lab 13\Module 13 Unit Tests\bin\Debug\Module 13 Unit Tests.dll
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Lab 13\Module 13 Unit Tests\bin\Debug\Module 13 Unit Tests.pdb
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Lab 13\Module 13 Unit Tests\bin\Debug\BinaryTree.dll
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Lab 13\Module 13 Unit Tests\bin\Debug\StressTestResult.dll
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Lab 13\Module 13 Unit Tests\bin\Debug\BinaryTree.pdb
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Lab 13\Module 13 Unit Tests\bin\Debug\StressTestResult.pdb
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Lab 13\Module 13 Unit Tests\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Lab 13\Module 13 Unit Tests\obj\Debug\Module 13 Unit Tests.dll
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Lab 13\Module 13 Unit Tests\obj\Debug\Module 13 Unit Tests.pdb
+E:\Labfiles\Lab 13\Ex 1\Starter\Module 13 Unit Tests\bin\Debug\Module 13 Unit Tests.dll
+E:\Labfiles\Lab 13\Ex 1\Starter\Module 13 Unit Tests\bin\Debug\Module 13 Unit Tests.pdb
+E:\Labfiles\Lab 13\Ex 1\Starter\Module 13 Unit Tests\bin\Debug\BinaryTree.dll
+E:\Labfiles\Lab 13\Ex 1\Starter\Module 13 Unit Tests\bin\Debug\StressTestResult.dll
+E:\Labfiles\Lab 13\Ex 1\Starter\Module 13 Unit Tests\bin\Debug\BinaryTree.pdb
+E:\Labfiles\Lab 13\Ex 1\Starter\Module 13 Unit Tests\bin\Debug\StressTestResult.pdb
+E:\Labfiles\Lab 13\Ex 1\Starter\Module 13 Unit Tests\obj\Debug\ResolveAssemblyReference.cache
+E:\Labfiles\Lab 13\Ex 1\Starter\Module 13 Unit Tests\obj\Debug\Module 13 Unit Tests.dll
+E:\Labfiles\Lab 13\Ex 1\Starter\Module 13 Unit Tests\obj\Debug\Module 13 Unit Tests.pdb
+E:\Labfiles\Lab 13\Ex 1\Solution\Module 13 Unit Tests\bin\Debug\Module 13 Unit Tests.dll
+E:\Labfiles\Lab 13\Ex 1\Solution\Module 13 Unit Tests\bin\Debug\Module 13 Unit Tests.pdb
+E:\Labfiles\Lab 13\Ex 1\Solution\Module 13 Unit Tests\bin\Debug\BinaryTree.dll
+E:\Labfiles\Lab 13\Ex 1\Solution\Module 13 Unit Tests\bin\Debug\StressTestResult.dll
+E:\Labfiles\Lab 13\Ex 1\Solution\Module 13 Unit Tests\bin\Debug\BinaryTree.pdb
+E:\Labfiles\Lab 13\Ex 1\Solution\Module 13 Unit Tests\bin\Debug\StressTestResult.pdb
+E:\Labfiles\Lab 13\Ex 1\Solution\Module 13 Unit Tests\obj\Debug\ResolveAssemblyReference.cache
+E:\Labfiles\Lab 13\Ex 1\Solution\Module 13 Unit Tests\obj\Debug\Module 13 Unit Tests.dll
+E:\Labfiles\Lab 13\Ex 1\Solution\Module 13 Unit Tests\obj\Debug\Module 13 Unit Tests.pdb
+E:\Labfiles\Lab 13\Ex 2\Starter\Module 13 Unit Tests\bin\Debug\Module 13 Unit Tests.dll
+E:\Labfiles\Lab 13\Ex 2\Starter\Module 13 Unit Tests\bin\Debug\Module 13 Unit Tests.pdb
+E:\Labfiles\Lab 13\Ex 2\Starter\Module 13 Unit Tests\bin\Debug\BinaryTree.dll
+E:\Labfiles\Lab 13\Ex 2\Starter\Module 13 Unit Tests\bin\Debug\StressTestResult.dll
+E:\Labfiles\Lab 13\Ex 2\Starter\Module 13 Unit Tests\bin\Debug\BinaryTree.pdb
+E:\Labfiles\Lab 13\Ex 2\Starter\Module 13 Unit Tests\bin\Debug\StressTestResult.pdb
+E:\Labfiles\Lab 13\Ex 2\Starter\Module 13 Unit Tests\obj\Debug\ResolveAssemblyReference.cache
+E:\Labfiles\Lab 13\Ex 2\Starter\Module 13 Unit Tests\obj\Debug\Module 13 Unit Tests.dll
+E:\Labfiles\Lab 13\Ex 2\Starter\Module 13 Unit Tests\obj\Debug\Module 13 Unit Tests.pdb
+E:\Labfiles\Lab 13\Ex2\Starter\Module 13 Unit Tests\bin\Debug\Module 13 Unit Tests.dll
+E:\Labfiles\Lab 13\Ex2\Starter\Module 13 Unit Tests\bin\Debug\Module 13 Unit Tests.pdb
+E:\Labfiles\Lab 13\Ex2\Starter\Module 13 Unit Tests\bin\Debug\BinaryTree.dll
+E:\Labfiles\Lab 13\Ex2\Starter\Module 13 Unit Tests\bin\Debug\StressTestResult.dll
+E:\Labfiles\Lab 13\Ex2\Starter\Module 13 Unit Tests\bin\Debug\BinaryTree.pdb
+E:\Labfiles\Lab 13\Ex2\Starter\Module 13 Unit Tests\bin\Debug\StressTestResult.pdb
+E:\Labfiles\Lab 13\Ex2\Starter\Module 13 Unit Tests\obj\Debug\TestBinaryTree.csprojResolveAssemblyReference.cache
+E:\Labfiles\Lab 13\Ex2\Starter\Module 13 Unit Tests\obj\Debug\Module 13 Unit Tests.dll
+E:\Labfiles\Lab 13\Ex2\Starter\Module 13 Unit Tests\obj\Debug\Module 13 Unit Tests.pdb
