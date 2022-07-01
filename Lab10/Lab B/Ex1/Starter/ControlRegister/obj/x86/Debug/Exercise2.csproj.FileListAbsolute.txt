@@ -1,0 +1,10 @@
+C:\Users\James\Desktop\MSL C# Labs\Module10\Exercise2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\James\Desktop\MSL C# Labs\Module10\Exercise2\bin\Debug\Exercise2.dll
+C:\Users\James\Desktop\MSL C# Labs\Module10\Exercise2\bin\Debug\Exercise2.pdb
+C:\Users\James\Desktop\MSL C# Labs\Module10\Exercise2\obj\x86\Debug\Exercise2.dll
+C:\Users\James\Desktop\MSL C# Labs\Module10\Exercise2\obj\x86\Debug\Exercise2.pdb
+C:\Users\James\Desktop\MSL C# Labs\Module10\Ex2\Solution\Exercise2\bin\Debug\Exercise2.dll
+C:\Users\James\Desktop\MSL C# Labs\Module10\Ex2\Solution\Exercise2\bin\Debug\Exercise2.pdb
+C:\Users\James\Desktop\MSL C# Labs\Module10\Ex2\Solution\Exercise2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\James\Desktop\MSL C# Labs\Module10\Ex2\Solution\Exercise2\obj\x86\Debug\Exercise2.dll
+C:\Users\James\Desktop\MSL C# Labs\Module10\Ex2\Solution\Exercise2\obj\x86\Debug\Exercise2.pdb

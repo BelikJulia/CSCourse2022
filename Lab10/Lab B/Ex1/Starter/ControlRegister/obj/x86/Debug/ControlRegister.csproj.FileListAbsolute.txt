@@ -1,0 +1,10 @@
+E:\Labfiles\Lab 10\Lab B\Ex1\Solution\ControlRegister\bin\Debug\Exercise2.dll
+E:\Labfiles\Lab 10\Lab B\Ex1\Solution\ControlRegister\bin\Debug\Exercise2.pdb
+E:\Labfiles\Lab 10\Lab B\Ex1\Solution\ControlRegister\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Labfiles\Lab 10\Lab B\Ex1\Solution\ControlRegister\obj\x86\Debug\Exercise2.dll
+E:\Labfiles\Lab 10\Lab B\Ex1\Solution\ControlRegister\obj\x86\Debug\Exercise2.pdb
+E:\Labfiles\Lab 10\Lab B\Ex1\Starter\ControlRegister\bin\Debug\Exercise2.dll
+E:\Labfiles\Lab 10\Lab B\Ex1\Starter\ControlRegister\bin\Debug\Exercise2.pdb
+E:\Labfiles\Lab 10\Lab B\Ex1\Starter\ControlRegister\obj\x86\Debug\ControlRegister.csprojResolveAssemblyReference.cache
+E:\Labfiles\Lab 10\Lab B\Ex1\Starter\ControlRegister\obj\x86\Debug\Exercise2.dll
+E:\Labfiles\Lab 10\Lab B\Ex1\Starter\ControlRegister\obj\x86\Debug\Exercise2.pdb

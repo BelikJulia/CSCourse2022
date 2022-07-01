@@ -1,0 +1,20 @@
+C:\Users\James\Desktop\MSL C# Labs\Module10\Exercise3\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\James\Desktop\MSL C# Labs\Module10\Exercise3\bin\Debug\Exercise3.dll
+C:\Users\James\Desktop\MSL C# Labs\Module10\Exercise3\bin\Debug\Exercise3.pdb
+C:\Users\James\Desktop\MSL C# Labs\Module10\Exercise3\obj\x86\Debug\Exercise3.dll
+C:\Users\James\Desktop\MSL C# Labs\Module10\Exercise3\obj\x86\Debug\Exercise3.pdb
+E:\Labfiles\Lab 10\Ex3\Solution\Exercise3\bin\Debug\Exercise3.dll
+E:\Labfiles\Lab 10\Ex3\Solution\Exercise3\bin\Debug\Exercise3.pdb
+E:\Labfiles\Lab 10\Ex3\Solution\Exercise3\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Labfiles\Lab 10\Ex3\Solution\Exercise3\obj\x86\Debug\Exercise3.dll
+E:\Labfiles\Lab 10\Ex3\Solution\Exercise3\obj\x86\Debug\Exercise3.pdb
+E:\Labfiles\Lab 10\Lab C\Ex3\Solution\Exercise3\bin\Debug\Exercise3.dll
+E:\Labfiles\Lab 10\Lab C\Ex3\Solution\Exercise3\bin\Debug\Exercise3.pdb
+E:\Labfiles\Lab 10\Lab C\Ex3\Solution\Exercise3\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Labfiles\Lab 10\Lab C\Ex3\Solution\Exercise3\obj\x86\Debug\Exercise3.dll
+E:\Labfiles\Lab 10\Lab C\Ex3\Solution\Exercise3\obj\x86\Debug\Exercise3.pdb
+E:\Labfiles\Lab 10\Lab C\Ex3\Starter\Exercise3\bin\Debug\Exercise3.dll
+E:\Labfiles\Lab 10\Lab C\Ex3\Starter\Exercise3\bin\Debug\Exercise3.pdb
+E:\Labfiles\Lab 10\Lab C\Ex3\Starter\Exercise3\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Labfiles\Lab 10\Lab C\Ex3\Starter\Exercise3\obj\x86\Debug\Exercise3.dll
+E:\Labfiles\Lab 10\Lab C\Ex3\Starter\Exercise3\obj\x86\Debug\Exercise3.pdb
