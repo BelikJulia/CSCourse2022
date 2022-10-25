@@ -1,7 +1,0 @@
-E:\Labfiles\Lab 6\Ex4\Starter\Nullable Structs Unit Test Project\bin\Debug\Unit Tests for Module 6.dll
-E:\Labfiles\Lab 6\Ex4\Starter\Nullable Structs Unit Test Project\bin\Debug\Unit Tests for Module 6.pdb
-E:\Labfiles\Lab 6\Ex4\Starter\Nullable Structs Unit Test Project\bin\Debug\StressTest.dll
-E:\Labfiles\Lab 6\Ex4\Starter\Nullable Structs Unit Test Project\bin\Debug\StressTest.pdb
-E:\Labfiles\Lab 6\Ex4\Starter\Nullable Structs Unit Test Project\obj\Debug\TestNullableStructs.csprojResolveAssemblyReference.cache
-E:\Labfiles\Lab 6\Ex4\Starter\Nullable Structs Unit Test Project\obj\Debug\Unit Tests for Module 6.dll
-E:\Labfiles\Lab 6\Ex4\Starter\Nullable Structs Unit Test Project\obj\Debug\Unit Tests for Module 6.pdb
