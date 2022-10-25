@@ -1,1 +1,0 @@
-There is no starter code for this exercise.
