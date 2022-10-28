@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="62ba6eb6-6849-4d83-ab96-5f373555061d" name="Student@10266A-GEN-DEV 2010-02-10 08:10:57" runUser="10266A-GEN-DEV\Student" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Default Test Settings" id="5d3db26a-e12b-47ee-8cf1-b030862f9c26">
+    <Deployment runDeploymentRoot="Student_10266A-GEN-DEV 2010-02-10 08_10_57">
+      <DeploymentItem filename="E:\Labfiles\Lab 15\Starter\DynamicLanguageInterop\TestDynamicLanguageInterop\bin\Debug\IronPython.Modules.dll" />
+      <DeploymentItem filename="E:\Labfiles\Lab 15\Starter\DynamicLanguageInterop\DynamicLanguageInterop\bin\Debug\DynamicLanguageInterop.exe" />
+      <DeploymentItem filename="E:\Labfiles\Lab 15\Starter\DynamicLanguageInterop\TestDynamicLanguageInterop\bin\Debug\IronPython.dll" />
+      <DeploymentItem filename="E:\Labfiles\Lab 15\Starter\DynamicLanguageInterop\TestDynamicLanguageInterop\bin\Debug\IronRuby.dll" />
+      <DeploymentItem filename="E:\Labfiles\Lab 15\Starter\DynamicLanguageInterop\TestDynamicLanguageInterop\bin\Debug\IronRuby.Libraries.dll" />
+      <DeploymentItem filename="E:\Labfiles\Lab 15\Starter\DynamicLanguageInterop\TestDynamicLanguageInterop\bin\Debug\Microsoft.Scripting.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2010-02-10T08:10:57.2881953-08:00" queuing="2010-02-10T08:10:58.6006953-08:00" start="2010-02-10T08:10:58.7100703-08:00" finish="2010-02-10T08:10:59.8038203-08:00" />
+  <ResultSummary outcome="Failed">
+    <Counters total="2" executed="2" passed="1" error="0" failed="1" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="CreateTrapezoidTest" storage="e:\labfiles\lab 15\starter\dynamiclanguageinterop\testdynamiclanguageinterop\bin\debug\testdynamiclanguageinterop.dll" id="21f26b5b-2a14-64a1-5c1c-d41ac345bab4">
+      <DeploymentItems>
+        <DeploymentItem filename="DynamicLanguageInterop.exe" />
+      </DeploymentItems>
+      <Execution id="d0367097-06f5-4705-b894-568e72295c61" />
+      <TestMethod codeBase="E:/Labfiles/Lab 15/Starter/DynamicLanguageInterop/TestDynamicLanguageInterop/bin/Debug/TestDynamicLanguageInterop.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestDynamicLanguageInterop.InteropTestWindowTest, TestDynamicLanguageInterop, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="CreateTrapezoidTest" />
+    </UnitTest>
+    <UnitTest name="ShuffleDataTest" storage="e:\labfiles\lab 15\starter\dynamiclanguageinterop\testdynamiclanguageinterop\bin\debug\testdynamiclanguageinterop.dll" id="895ee0a2-872b-58d4-30a6-a7b947c84524">
+      <DeploymentItems>
+        <DeploymentItem filename="DynamicLanguageInterop.exe" />
+      </DeploymentItems>
+      <Execution id="4b8f2cbe-88f3-47cc-bccf-a8eb9954e3a2" />
+      <TestMethod codeBase="E:/Labfiles/Lab 15/Starter/DynamicLanguageInterop/TestDynamicLanguageInterop/bin/Debug/TestDynamicLanguageInterop.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestDynamicLanguageInterop.InteropTestWindowTest, TestDynamicLanguageInterop, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="ShuffleDataTest" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="21f26b5b-2a14-64a1-5c1c-d41ac345bab4" executionId="d0367097-06f5-4705-b894-568e72295c61" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="895ee0a2-872b-58d4-30a6-a7b947c84524" executionId="4b8f2cbe-88f3-47cc-bccf-a8eb9954e3a2" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="d0367097-06f5-4705-b894-568e72295c61" testId="21f26b5b-2a14-64a1-5c1c-d41ac345bab4" testName="CreateTrapezoidTest" computerName="10266A-GEN-DEV" duration="00:00:00.2681879" startTime="2010-02-10T08:10:58.7881953-08:00" endTime="2010-02-10T08:10:59.6788203-08:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="d0367097-06f5-4705-b894-568e72295c61">
+      <Output>
+        <ErrorInfo>
+          <Message>Assert.AreEqual failed. Expected:&lt;The method or operation is not implemented.&gt;. Actual:&lt;Length of SideAB must be greater than zero&gt;. </Message>
+          <StackTrace>   at TestDynamicLanguageInterop.InteropTestWindowTest.CreateTrapezoidTest() in E:\Labfiles\Lab 15\Starter\DynamicLanguageInterop\TestDynamicLanguageInterop\InteropTestWindowTest.cs:line 141
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="4b8f2cbe-88f3-47cc-bccf-a8eb9954e3a2" testId="895ee0a2-872b-58d4-30a6-a7b947c84524" testName="ShuffleDataTest" computerName="10266A-GEN-DEV" duration="00:00:00.0209828" startTime="2010-02-10T08:10:59.6944453-08:00" endTime="2010-02-10T08:10:59.7256953-08:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="4b8f2cbe-88f3-47cc-bccf-a8eb9954e3a2">
+    </UnitTestResult>
+  </Results>
+</TestRun>
